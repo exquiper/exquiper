@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alan Humberto Pérez Núñez</h1>
 <h3 align="center">A passionate programmer from Mexico</h3>
 
+- 💬 Ask me about **I am a recent college graduate looking for my "Primera Chamba", with the purpose of expanding my knowledge by applying it in my daily life**
+
 - 📫 How to reach me **perezalanbd@gmail.com**
 
-- ⚡ Fun fact **I am Tryharn in valorant, gg ezzz....**
+- ⚡ Fun fact **I am Tryhard in valorant, gg ezzz....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alan perez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan perez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alan-perez-5384a8241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alan-perez-5384a8241/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
